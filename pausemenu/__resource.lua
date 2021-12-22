@@ -1,0 +1,1 @@
+client_script "server_xya.lua"
